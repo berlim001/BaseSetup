@@ -1,0 +1,8 @@
+Required downloads:
+Python 3.12.4
+gcc version 10.2.0 (GCC)
+
+
+Command help:
+python.exe build.py -help
+
